@@ -43,9 +43,11 @@
 <h2>Convido você a conhecer um pouco mais sobre mim!</h2>
  
 <div> 
-  <a href="https://instagram.com/geovane_aaribeiro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/geovane_aaribeiro"target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:antonio.alves.ribeiro@hotmail.com"><img src="https://img.shields.io/badge/Outlook-%230078D4.svg?&style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/antonio-ribeiro-2a904726/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+ <a href="https://www.linkedin.com/in/antonio-ribeiro-2a904726/"target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
+ <a href="https://github.com/antoniogribeiro/Curriculo/blob/main/Curriculo%20-%20Antonio%20Ribeiro.pdf"target="_blank"><img src="https://img.shields.io/badge/Download_Currículo-%230077B5.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white></a>
+                                                                                                         
+ https://github.com/antoniogribeiro/Curriculo/blob/main/Curriculo%20-%20Antonio%20Ribeiro.pdf
 </div>
  <p></p>
