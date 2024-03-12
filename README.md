@@ -1,5 +1,6 @@
 <h1 align="center"> 🚀Bem-vindo a minha nave na galáxia do GitHub! </h1>
-
+# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
 <ul align="left">
  
  <li>🌌 Olá, sou Antonio Ribeiro e esta é a minha nave na galáxia do GitHub! Aqui, você encontrará um vasto arsenal de habilidades e conhecimentos que adquiri ao longo da minha jornada como chefe de gabinete na Câmara de Vereadores de Vitória da Conquista e outros setores da gestão pública e como um Jedi do desenvolvimento Full Stack.</li>
@@ -35,9 +36,9 @@
  <div>
    <a href="https://github.com/antoniogribeiro">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=antoniogribeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogribeiro&layout=compact&langs_count=6&theme=tokyonight"/>   
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniogribeiro&layout=compact&langs_count=6&theme=tokyonight"/>  
 </div>
-   
+   [snake gif](https://github.com/antoniogribeiro/antoniogribeiro/blob/output/github-contribution-grid-snake.gif)
 <h2>Convido você a conhecer um pouco mais sobre mim!</h2>
  
 <div> 
